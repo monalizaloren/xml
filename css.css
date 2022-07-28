@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.botao{
+
+    background: #6ea8ca;
+    
+    color: white;
+    
+    border-color: #0066A2;
+    
+    height: 20px;
+    
+    width: 60px;
+
+    font-size: 12px;
+    
+    
+    }
